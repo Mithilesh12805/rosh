@@ -1,3 +1,6 @@
+🚀 AWS Hackathon – AI for Bharat
+Project Title: AI Productivity Copilot for Bharat
+
 1️⃣ Project Overview
 
 Short and powerful description of the solution
